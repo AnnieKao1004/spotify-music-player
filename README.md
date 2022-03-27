@@ -11,6 +11,7 @@ A music player application integrated with Spotify.
 ## Live Demo
 
 [Live demo](https://my-spotify-music-player.herokuapp.com/)
+
 ![Screenshot](./client/demo/demo.gif)
 
 ## Frontend
